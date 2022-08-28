@@ -62,6 +62,11 @@ export default function Weather() {
             <li>Wind: {weatherData.wind} km/h</li>
           </ul>
         </div>
+        <footer>
+          Opensource code{" "}
+          <a href="https://github.com/KarenPNavarro/react-homework">GitHub</a>{" "}
+          by Karen Navarro
+        </footer>
       </div>
     </div>
   );
